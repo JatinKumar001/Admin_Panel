@@ -1,0 +1,160 @@
+export const userInputs = [
+  {
+    id: "username",
+    label: "Username",
+    type: "text",
+    placeholder: "",
+  },
+  {
+    id: "email",
+    label: "Email",
+    type: "email",
+    placeholder: "",
+  },
+  {
+    id: "phone",
+    label: "Phone",
+    type: "text",
+    placeholder: "",
+  },
+  {
+    id: "password",
+    label: "Password",
+    type: "password",
+  },
+  {
+    id: "country",
+    label: "Country",
+    type: "text",
+    placeholder: "",
+  },
+  {
+    id: "city",
+    label: "City",
+    type: "text",
+    placeholder: "",
+  },
+];
+  
+export const propertyInputs = [
+  {
+    id: "location",
+    label: "Location",
+    type: "text",
+    placeholder: "",
+  },
+  {
+    id: "country",
+    label: "Country",
+    type: "text",
+    placeholder: "",
+  },
+  {
+    id: "city",
+    label: "City",
+    type: "text",
+    placeholder: "",
+  },
+  {
+    id: "propertytitle",
+    label: "Property Title",
+    type: "text",
+    placeholder: "",
+  },
+  {
+    id: "ownername",
+    label: "Owner Name",
+    type: "text",
+    placeholder: "",
+  },
+  {
+    id: "ownerdesc",
+    label: "Owner Description",
+    type: "text",
+    placeholder: "",
+  },
+  {
+    id: "ownerprofession",
+    label: "Owner Profession",
+    type: "text",
+    placeholder: "",
+  },
+  {
+    id: "ownerphoneno",
+    label: "Owner Phone no.",
+    type: "text",
+    placeholder: "",
+  },
+  {
+    id: "owneremailid",
+    label: "Owner Email",
+    type: "text",
+    placeholder: "",
+  },
+  {
+    id: "bhk",
+    label: "BHK",
+    type: "text",
+    placeholder: "",
+  },
+  {
+    id: "propertytype",
+    label: "Property Type",
+    type: "text",
+    placeholder: "",
+  },
+  {
+    id: "feature",
+    label: "Property Features",
+    type: "text",
+    placeholder: "",
+  },
+  {
+    id: "summary",
+    label: "Summary",
+    type: "text",
+    placeholder: "",
+  },
+  {
+    id: "description",
+    label: "Description",
+    type: "text",
+    placeholder: "",
+  },
+  {
+    id: "entrancehall",
+    label: "About Entrance Hall",
+    type: "text",
+    placeholder: "",
+  },
+  {
+    id: "lounge",
+    label: "About Lounge",
+    type: "text",
+    placeholder: "",
+  },
+  {
+    id: "kitchen",
+    label: "About Kitchen",
+    type: "text",
+    placeholder: "",
+  },
+  {
+    id: "noofbedrooms",
+    label: "No of Bedrooms",
+    type: "text",
+    placeholder: "",
+  },
+  {
+    id: "bedroomdimensions",
+    label: "Bedrooms Dimensions",
+    type: "text",
+    placeholder: "",
+  },
+  {
+    id: "price",
+    label: "Price",
+    type: "text",
+    placeholder: "",
+  },
+];  
